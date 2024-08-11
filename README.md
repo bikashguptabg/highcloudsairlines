@@ -33,5 +33,6 @@ Operational Focus: Address Q1 low load factors through targeted promotions or sc
 Carrier Optimization: Evaluate carrier efficiency to enhance aircraft utilization.
 Strategic Adjustments: Reassess pricing and operational strategies for short-distance routes to improve load factors.
 
-Hope it helps!
+Hope it helps! Please follow for more - https://www.linkedin.com/in/bikashguptabg/
+
 Thank you!
