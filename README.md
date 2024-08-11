@@ -32,3 +32,6 @@ Recommendations:
 Operational Focus: Address Q1 low load factors through targeted promotions or schedule adjustments.
 Carrier Optimization: Evaluate carrier efficiency to enhance aircraft utilization.
 Strategic Adjustments: Reassess pricing and operational strategies for short-distance routes to improve load factors.
+
+Hope it helps!
+Thank you!
