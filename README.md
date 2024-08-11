@@ -22,7 +22,7 @@ Imported the data from different sheets and performed data cleaning (renaming co
 Data Connection & Modelling:
 Created data modelling in Excel, Power BI and Tableau and performed joins in MySQL to create a relationship between the different tables.
 Exploratory Data Analysis (EDA):
-Descriptive Statistics: Calculated key metrics like Load Factor by SUM(TotalPasengers)/SUM(Available Seats). Segmenting some columns like ‘WeekdayType’ into weekdays & weekends.
+Descriptive Statistics: Calculated key metrics like Load Factor by SUM(TotalPasengers)/SUM(Available Seats). Segmenting some columns like ‘WeekdayType’ into weekdays & weekends.
 Data Visualization: Utilized charts (bar, line, KPI Cards, etc.) and heatmaps to visualize trends, correlations, and anomalies. Used Date and Location Filters as well to study the data by origin and destination flights.
 Reporting & Dashboarding:
 Developed dynamic dashboards using Power BI/Tableau for real-time insights.
