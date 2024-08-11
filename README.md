@@ -1,6 +1,6 @@
 # High Clouds Airlines Capstone Project - Excel, Power BI, Tableau, SQL & PowerPoint Presentation
 A comprehensive analysis of High Cloud Airlines, focusing on optimizing performance and enhancing operations of the airline industry. As part of this project, I built 3 interactive dashboards in Excel, Power & Tableau and fired SQL queries to validate all the values.
-#Important - All the files have been attached to the repository, however Excel file is larger than 25MB so unable to add it to the repository. But from this link you can download the Excel file as well:
+#Important - All the files have been attached to the repository, however Excel file and the SQL files is only available to download using this link below:
 
 https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing
 
