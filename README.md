@@ -1,8 +1,3 @@
-Here's a draft for the README section of your GitHub repository for the High Clouds Airlines Capstone Project:
-
----
-
-
 # High Clouds Airlines Capstone Project
 
 ## Project Overview
@@ -53,7 +48,3 @@ The project aims to provide actionable insights and recommendations that will dr
 Connect with me on LinkedIn for more projects and insights:
 
 [LinkedIn - Bikash Gupta](https://www.linkedin.com/in/bikashguptabg/)
-
----
-
-Feel free to adjust this content as needed!
