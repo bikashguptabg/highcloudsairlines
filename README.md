@@ -8,7 +8,7 @@ This capstone project presents a comprehensive analysis of High Cloud Airlines, 
 
 All project files are available for download via the link below:
 
-[Download Project Files](https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing)
+[Google Drive Link to Download](https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing)
 
 ## Purpose
 
