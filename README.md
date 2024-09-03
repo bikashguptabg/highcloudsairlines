@@ -1,39 +1,38 @@
-# High Clouds Airlines Capstone Project - Excel, Power BI, Tableau, SQL & PowerPoint Presentation
-A comprehensive analysis of High Cloud Airlines, focusing on optimizing performance and enhancing operations of the airline industry. As part of this project, I built 3 interactive dashboards in Excel, Power & Tableau and fired SQL queries to validate all the values.
+High Clouds Airlines Capstone Project
+Project Overview
+This capstone project presents a comprehensive analysis of High Cloud Airlines, focusing on optimizing the airline's performance and enhancing operational efficiency. The project includes the development of three interactive dashboards using Excel, Power BI, and Tableau, alongside SQL queries to validate the accuracy of the data.
 
-#Important - All the files available to download using this link below:
+Purpose
+The primary objective of this project is to perform an in-depth analysis of High Cloud Airlines' operations, with a focus on optimizing performance and improving customer satisfaction.
 
-https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing
-
-Purpose: 
-To perform a comprehensive analysis of High Cloud Airlines' operations, focusing on optimizing performance and enhancing customer satisfaction.
-
-Key Goals:
+Key Goals
 Identify Trends: Analyze flight data to uncover patterns in passenger traffic, peak travel times, and popular routes.
-Operational Efficiency: Evaluate load factors, busiest routes, top preferred airlines by the passengers.
-Data-Driven Decision Making: Utilize insights from the analysis to support strategic decision-making for future growth and sustainability.
+Operational Efficiency: Evaluate load factors, identify the busiest routes, and determine the top preferred airlines by passengers.
+Data-Driven Decision Making: Use insights from the analysis to support strategic decision-making for future growth and sustainability.
+Expected Outcome
+The project aims to provide actionable insights and recommendations that will drive operational efficiency, enhance profitability, and improve customer satisfaction for High Cloud Airlines.
 
-Expected Outcome: 
-Provide actionable insights and recommendations that drive efficiency, profitability, and customer satisfaction for High Cloud Airlines.
-
-Methods Used:
-Data Collection and Cleaning:
-Imported the data from different sheets and performed data cleaning (renaming columns and changing their datatypes)
-Data Connection & Modelling:
-Created data modelling in Excel, Power BI and Tableau and performed joins in MySQL to create a relationship between the different tables.
+Methods Used
+Data Collection and Cleaning: Imported data from multiple sheets, performed data cleaning (renaming columns, adjusting data types), and ensured data accuracy.
+Data Connection & Modeling: Created data models in Excel, Power BI, and Tableau, and performed SQL joins to establish relationships between different tables.
 Exploratory Data Analysis (EDA):
-Descriptive Statistics: Calculated key metrics like Load Factor by SUM(TotalPasengers)/SUM(Available Seats). Segmenting some columns like ‘WeekdayType’ into weekdays & weekends.
-Data Visualization: Utilized charts (bar, line, KPI Cards, etc.) and heatmaps to visualize trends, correlations, and anomalies. Used Date and Location Filters as well to study the data by origin and destination flights.
-Reporting & Dashboarding:
-Developed dynamic dashboards using Power BI/Tableau for real-time insights.
-Cross Verify through SQL Queries:
-Verified all the values by firing SQL queries to validate the reliability of the reports and the dashboards.
-
-Recommendations: 
-Operational Focus: Address Q1 low load factors through targeted promotions or schedule adjustments.
+Calculated key metrics like Load Factor using SUM(TotalPassengers)/SUM(AvailableSeats).
+Segmented data, such as categorizing days into weekdays and weekends.
+Data Visualization:
+Utilized various charts (bar, line, KPI Cards, etc.) and heatmaps to visualize trends, correlations, and anomalies.
+Applied date and location filters to study the data by origin and destination flights.
+Reporting & Dashboarding: Developed dynamic dashboards using Power BI and Tableau to provide real-time insights.
+Cross Verification through SQL Queries: Validated the reliability of the reports and dashboards by executing SQL queries.
+Recommendations
+Operational Focus: Address low load factors in Q1 through targeted promotions or schedule adjustments.
 Carrier Optimization: Evaluate carrier efficiency to enhance aircraft utilization.
 Strategic Adjustments: Reassess pricing and operational strategies for short-distance routes to improve load factors.
+Download Project Files
+All project files are available for download via the link below:
 
-Hope it helps! Please follow for more - https://www.linkedin.com/in/bikashguptabg/
+Download Project Files
 
-Thank you!
+Follow for More
+Connect with me on LinkedIn for more projects and insights:
+
+LinkedIn - Bikash Gupta
