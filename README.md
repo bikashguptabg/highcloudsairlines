@@ -46,8 +46,7 @@ The project aims to provide actionable insights and recommendations that will dr
 ## 🔗 Follow for More  
 Connect with me on LinkedIn for more projects and insights:
 
-[[LinkedIn - Bikash Gupta](#)](https://www.linkedin.com/in/bikashguptabg/)
+[LinkedIn - Bikash Gupta](https://www.linkedin.com/in/bikashguptabg/)
+
 
 ---
-
-In your GitHub README file, you can add icons using GitHub-compatible emoji shortcodes or include custom images by uploading them into the repository if you want more specific visual representations.
