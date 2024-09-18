@@ -10,7 +10,8 @@ This capstone project presents a comprehensive analysis of High Cloud Airlines, 
 ## 📂 Download Project Files  
 All project files are available for download via the link below:
 
-[Google Drive Link to Download]https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing(#)
+[Google Drive Link to Download](https://drive.google.com/drive/folders/1TAM_0r5LdjNFNeoMiZxcLKiCjvoHdZJW?usp=sharing)
+
 
 ## 🎯 Purpose  
 The primary objective of this project is to perform an in-depth analysis of High Cloud Airlines' operations, with a focus on optimizing performance and improving customer satisfaction.
@@ -45,7 +46,7 @@ The project aims to provide actionable insights and recommendations that will dr
 ## 🔗 Follow for More  
 Connect with me on LinkedIn for more projects and insights:
 
-[LinkedIn - Bikash Gupta](#)
+[[LinkedIn - Bikash Gupta](#)](https://www.linkedin.com/in/bikashguptabg/)
 
 ---
 
