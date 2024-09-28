@@ -1,7 +1,3 @@
-Here's how you can incorporate visual icons at the headings of each section for your High Cloud Airlines GitHub README file. The use of icons helps in making it more visually appealing. Below is your text with suggested icons next to the section titles:
-
----
-
 # ✈️ High Clouds Airlines Capstone Project
 
 ## 📝 Project Overview  
